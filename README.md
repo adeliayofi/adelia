@@ -1,0 +1,2 @@
+# adelia
+tugas dasar pemrograman
